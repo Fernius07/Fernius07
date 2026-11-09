@@ -1,81 +1,25 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn&fontAlignY=38&fontAlign=50" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Iñigo Fernández García+👋;I'm+a+Computer Engineering Student;Building things on the internet" alt="Typing SVG"/>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
-</div>
+# 💫 About Me:
+👋 ¡Hola! Soy estudiante de Ingeniería Informática en la Universidad de Deusto. <br>👋 Hi there! I am a Computer Engineering student at the University of Deusto.
 
-## ⌨️ About Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer%20Engineering%20Student%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/614472958773166113) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/iñigo-fernández-garcía/) 
 
-## 🤝 Connect with me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fernius07&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Fernius07&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fernius07&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernius07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/iñigo-fernández-garcía/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fernius07yt)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/614472958773166113)
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fernius07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Technologies & Tools
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=YOUR_TOPICS&perline=8"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=YOUR_TOOLS&perline=8"/>
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=Fernius07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Fernius07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Fernius07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-## 💡 Top Languages
-
-<div align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Fernius07&layout=donut&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Fernius07&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fernius07&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</div>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Fernius07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernius07&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
-## 🧪 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Fernius07/Metro-Bilbao">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Fernius07&repo=Metro-Bilbao&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Fernius07/Examenes_Ejercicios_ProgIV">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Fernius07&repo=Examenes_Ejercicios_ProgIV&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-<img src="https://komarev.com/ghpvc/?username=Fernius07&style=for-the-badge&color=F75C7E" alt="Profile views"/>
-</div>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/fernius07yt) 
